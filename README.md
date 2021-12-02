@@ -1,0 +1,2 @@
+# Altcademy
+Apple Clone Project
